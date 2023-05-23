@@ -1,6 +1,6 @@
 # shopp
 
-A new Flutter project.
+A Shopping Application with multiple Sellers
 
 ## Getting Started
 
